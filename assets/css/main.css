@@ -2560,7 +2560,7 @@ input, select, textarea {
 		border-radius: 0.25em;
 		border: 0;
 		display: flex;
-		position: relative;
+		/*position: relative;*/
 		justify-content: center;
 	}
 
