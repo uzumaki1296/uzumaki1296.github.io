@@ -2559,9 +2559,9 @@ input, select, textarea {
 	.image {
 		border-radius: 0.25em;
 		border: 0;
-		display: block;
+		display: flex;
 		position: relative;
-		margin: 0 auto;
+		justify-content: center;
 	}
 
 		.image img {
