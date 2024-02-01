@@ -2561,13 +2561,14 @@ input, select, textarea {
 		border: 0;*/
 		display: flex;
 		align-items: center;
-		position: absolute;
+		position: relative;
 		justify-content: center;
 	}
 
 		.image img {
 			border-radius: 0.25em;
-			display: block;
+			display: flex;
+			justify-content: center;
 		}
 
 		.image.left, .image.right {
